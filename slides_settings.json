@@ -4,12 +4,12 @@
   "course": "bacs350",
   "author": "Mark Seaman",
   "organization": "University of Northern Colorado",
-  "cover": "/static/images/course/bacs350/autumn-leaves.jpg",
-  "logo": "/static/images/course/bacs350/Bear.png",
+  "cover": "/static/images/shrinking-world.com/bacs350/autumn-leaves.jpg",
+  "logo": "/static/images/shrinking-world.com/bacs350/Bear.png",
   "theme": "beige.css",
-  "stylesheet": "/static/slides.css",
-  "images": "/static/images/course/bacs350/lesson",
-  "divider": "/static/images/course/bacs350/treetops.800.jpg",
-  "background": "/static/images/course/bacs350/paper.jpg",
+  "stylesheet": "/static/css/slides.css",
+  "images": "/static/images/shrinking-world.com/bacs350",
+  "divider": "/static/images/shrinking-world.com/bacs350/treetops.800.jpg",
+  "background": "/static/images/shrinking-world.com/bacs350/paper.jpg",
   "intro": false
 }
