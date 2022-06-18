@@ -1,0 +1,181 @@
+08.mdx
+
+
+
+
+
+
+
+
+
+
+
+---
+
+Skill 22 - System Tests
+
+---
+
+Interactive system testing
+
+Use the full system in context
+
+A human tries all of the application features
+
+
+
+
+Automated system testing
+
+Uses whole system
+
+Do not modify production data
+
+May use other computers (eg. Page Testing)
+
+
+---
+
+Skill 23 - Unit Tests
+
+---
+## Skill 23 - Unit Tests
+
+
+### View Tests
+
+### Model Tests
+
+### TestCase
+
+### SimpleTest Case
+
+### Request
+
+### Test Page Exists
+
+Use "request" to get a web page for the server.  Check that the status code
+is "200 - Page Successful".
+
+    def test_page_exists(self):
+        response = self.client.get('/book/')
+        self.assertEqual(response.status_code, 200)
+
+
+### Test URL Route to view
+
+Test the reverse look up from "name" to URL.   'book_list' should map to
+'/book/'.  This page should also exist on the server.
+
+    def test_book_list_view(self):
+        url = reverse('book_list')
+        response = self.client.get(url)
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(url, '/book/')
+
+
+### Template Used
+
+The TestCase has useful functions for looking at the HTML for a view.  The
+page can be examined to make sure that it uses two templates in its construction.
+
+    def test_book_list_view(self):
+        response = self.client.get('/book/')
+        self.assertTemplateUsed(response, 'book_list.html')
+        self.assertTemplateUsed(response, 'book_theme.html')
+
+
+### Objects in view
+
+The book object list should contain at least three list items.  These can be
+checked  with the following code. If no count is given then it will be satisfied
+with any items it finds.
+
+    def test_objects_in_view(self):
+        response = self.client.get('/book/')
+        self.assertContains(response, '<li>', count=3)
+
+
+
+### HTML fragments
+
+This code will also find HTML fragements within the pages.
+
+    def test_contains(self):
+        self.assertContains(response, '<title>Book List</title>')
+
+---
+
+Skill 24 - Test-Driven Development
+
+---
+
+    
+Process steps
+
+    Select one feature
+    Write a test that fails
+    Write code to pass the test
+    Commit changes
+    Repeat with next feature
+
+Key metrics
+
+    Percent test failures
+    Time between tests
+    Time of feature loop (commits)
+    Percentage of code/tests
+    Code coverage
+
+---
+
+
+
+Lesson 20 - Writing Tests
+    Writing Tests
+     Data Tests
+     Example: BookDataTests
+     Data Test Features
+     View Tests
+     Example: AccountsViewTests
+     View Test Features
+     Test User Accounts
+     Django Test for Forms
+     Linux Commands
+     Django Operations
+     Git Operations
+     Directory Navigation
+     Automation
+     User Account Module
+     Add Accounts to Book Builder
+
+
+Lesson 16 - Testing Basics
+    CRUD Design Pattern
+    Data Views Design Pattern
+    Types of Testing
+    Setup for Workflow
+    Development Loop
+    Running Django from Visual Studio
+    Manual Testing
+    Django TestCase to test database
+    CRUD Test
+    Demo Code for Book Builder
+
+
+Lesson 17 - Test Driven Development
+    Software Engineer
+    Test-Driven Development
+    Shrinking World Software Planner
+    Basic Automatic Test
+    CRUD Tests
+    Data CRUD Views Tests
+    View Test
+    Test Page Exists
+    Test URL Route to view
+    Template Used
+    Objects in view
+    HTML fragments
+    Demo Code for Book Builder
+    Live Demo
+    Project 6 Requirements
