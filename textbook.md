@@ -1,3 +1,19 @@
+Chapter 1 - 3965 words
+Chapter 2 - 5643 words
+Chapter 3 - 2881 words
+Chapter 4 - 3106 words
+Chapter 5 - 2825 words
+Chapter 6 - 2419 words
+Chapter 7 - 2202 words
+Chapter 8 - 3588 words
+Chapter 9 - 1897 words
+Chapter 10 - 622 words
+Chapter 11 - 625 words
+Chapter 12 - 726 words
+Chapter 13 - 829 words
+Chapter 14 - 518 words
+
+
 
 Chapter 1 - Development Tools - 406 Lines - 2699 Words
     Skill 1 - VS Code & Github - 114 Lines - 337 Words
@@ -55,8 +71,11 @@ Chapter 8 - Testing - 412 Lines - 1934 Words
     Demo 8 - Messenger - 106 Lines - 259 Words
     Project 8 - Secure Superhero Data Views - 107 Lines - 472 Words
 
-Chapter 9 - Complex Views - 62 Lines - 202 Words
-    Demo 9 - Views Workshop - 234 Lines - 579 Words
+Chapter 9 - Building Views - 97 Lines - 509 Words
+    Skill 25 - Theme Template - 108 Lines - 300 Words
+    Skill 26 - Simple Views - 182 Lines - 358 Words
+    Skill 27 - Complex Views - 12 Lines - 27 Words
+    Demo 9 - Views Workshop - 91 Lines - 258 Words
     Project 9 - View Inheritance - 129 Lines - 445 Words
 
 Chapter 10 - Components Views - 11 Lines - 33 Words
@@ -80,20 +99,4 @@ Chapter 14 - Software Engineering - 88 Lines - 204 Words
     Project 14 - Data Tests - 15 Lines - 50 Words
 
 
-Total Words 31115
-
-
-Chapter 1 - 3965 words
-Chapter 2 - 5643 words
-Chapter 3 - 2881 words
-Chapter 4 - 3106 words
-Chapter 5 - 2825 words
-Chapter 6 - 2419 words
-Chapter 7 - 2202 words
-Chapter 8 - 3588 words
-Chapter 9 - 1238 words
-Chapter 10 - 622 words
-Chapter 11 - 625 words
-Chapter 12 - 726 words
-Chapter 13 - 829 words
-Chapter 14 - 518 words
+Total Words 31786

@@ -1,11 +1,13 @@
 # Chapter xxx - 
 
+## 
 
 ## Overview
 
 
-## Demonstrated Skills
+## Design Patterns
 
+*
 *
 *
 
