@@ -3,17 +3,17 @@
 
 ## Overview
 
-## Settings
+### Settings
 
 config/settings.py
 
 
-## Data
+### Data
 
 models.py
 
 
-## Views
+### Views
 
 templates
 
@@ -22,7 +22,7 @@ views.py
 urls.py
 
 
-## Tests
+### Tests
 
 data tests
 

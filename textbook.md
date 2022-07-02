@@ -7,8 +7,8 @@ Chapter 6 - 2419 words
 Chapter 7 - 2202 words
 Chapter 8 - 3588 words
 Chapter 9 - 1897 words
-Chapter 10 - 622 words
-Chapter 11 - 625 words
+Chapter 10 - 1467 words
+Chapter 11 - 1663 words
 Chapter 12 - 726 words
 Chapter 13 - 829 words
 Chapter 14 - 518 words
@@ -78,11 +78,17 @@ Chapter 9 - Building Views - 97 Lines - 509 Words
     Demo 9 - Views Workshop - 91 Lines - 258 Words
     Project 9 - View Inheritance - 129 Lines - 445 Words
 
-Chapter 10 - Components Views - 11 Lines - 33 Words
+Chapter 10 - Images - 75 Lines - 492 Words
+    Skill 28 - Photo upload - 50 Lines - 124 Words
+    Skill 29 - Media Hosting - 76 Lines - 246 Words
+    Skill 30 - Image carousel - 31 Lines - 28 Words
     Demo 10 - Photo Albums - 93 Lines - 195 Words
     Project 10 - Cards & Tables & Docs - 103 Lines - 382 Words
 
-Chapter 11 - Files and Documents - 3 Lines - 8 Words
+Chapter 11 - Files and Documents - 66 Lines - 264 Words
+    Skill 31 - Reading and Writing Tables - 73 Lines - 213 Words
+    Skill 32 - Save and Restore Objects - 99 Lines - 358 Words
+    Skill 33 - Markdown Documents  - 78 Lines - 223 Words
     Demo 11 - Book Builder - 108 Lines - 286 Words
     Project 11 - Accordion & Tabs - 90 Lines - 319 Words
 
@@ -99,4 +105,4 @@ Chapter 14 - Software Engineering - 88 Lines - 204 Words
     Project 14 - Data Tests - 15 Lines - 50 Words
 
 
-Total Words 31786
+Total Words 33693
