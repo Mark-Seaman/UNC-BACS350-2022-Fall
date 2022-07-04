@@ -5,13 +5,13 @@ Chapter 4 - 3106 words
 Chapter 5 - 2825 words
 Chapter 6 - 2419 words
 Chapter 7 - 2202 words
-Chapter 8 - 3588 words
+Chapter 8 - 3389 words
 Chapter 9 - 1897 words
 Chapter 10 - 1467 words
-Chapter 11 - 1663 words
-Chapter 12 - 726 words
-Chapter 13 - 829 words
-Chapter 14 - 518 words
+Chapter 11 - 1716 words
+Chapter 12 - 1798 words
+Chapter 13 - 1083 words
+Chapter 14 - 994 words
 
 
 
@@ -64,7 +64,7 @@ Chapter 7 - Users - 92 Lines - 470 Words
     Demo 7 - News - 253 Lines - 719 Words
     Project 7 - Superhero Data Views - 103 Lines - 454 Words
 
-Chapter 8 - Testing - 412 Lines - 1934 Words
+Chapter 8 - Testing - 376 Lines - 1735 Words
    Skill 22 - Data Tests - 87 Lines - 267 Words
    Skill 23 - View Tests - 134 Lines - 424 Words
    Skill 24 - Page Tests - 61 Lines - 232 Words
@@ -85,24 +85,24 @@ Chapter 10 - Images - 75 Lines - 492 Words
     Demo 10 - Photo Albums - 93 Lines - 195 Words
     Project 10 - Cards & Tables & Docs - 103 Lines - 382 Words
 
-Chapter 11 - Files and Documents - 66 Lines - 264 Words
+Chapter 11 - Files and Documents - 100 Lines - 317 Words
     Skill 31 - Reading and Writing Tables - 73 Lines - 213 Words
     Skill 32 - Save and Restore Objects - 99 Lines - 358 Words
     Skill 33 - Markdown Documents  - 78 Lines - 223 Words
     Demo 11 - Book Builder - 108 Lines - 286 Words
     Project 11 - Accordion & Tabs - 90 Lines - 319 Words
 
-Chapter 12 - Import & Export - 3 Lines - 8 Words
+Chapter 12 - Development Process - 299 Lines - 1080 Words
     Demo 12 - Course Builder - 103 Lines - 247 Words
     Project 12 - Superhero News - 134 Lines - 459 Words
 
-Chapter 13 - Automation  - 3 Lines - 6 Words
+Chapter 13 - DevOps  - 128 Lines - 260 Words
     Demo 13 - Code Builder - 217 Lines - 761 Words
     Project 13 - View Tests - 15 Lines - 50 Words
 
-Chapter 14 - Software Engineering - 88 Lines - 204 Words
-    Demo 14 - Software Engineering Notebook - 105 Lines - 252 Words
+Chapter 14 - Software Engineering - 212 Lines - 680 Words
+    Demo 14 - Software Engineering Notebook - 106 Lines - 252 Words
     Project 14 - Data Tests - 15 Lines - 50 Words
 
 
-Total Words 33693
+Total Words 35349
