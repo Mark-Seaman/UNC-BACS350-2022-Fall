@@ -10,8 +10,8 @@ Chapter 9 - 1897 words
 Chapter 10 - 1467 words
 Chapter 11 - 1716 words
 Chapter 12 - 1807 words
-Chapter 13 - 1074 words
-Chapter 14 - 1153 words
+Chapter 13 - 2834 words
+Chapter 14 - 2666 words
 
 
 
@@ -99,19 +99,19 @@ Chapter 12 - Development Process - 101 Lines - 158 Words
     Demo 12 - Course Builder - 103 Lines - 247 Words
     Project 12 - Superhero News - 134 Lines - 459 Words
 
-Chapter 13 - DevOps  - 128 Lines - 260 Words
-   .md - 1 Lines - 1 Words
-   .md - 1 Lines - 1 Words
-   .md - 1 Lines - 1 Words
+Chapter 13 - DevOps  - 162 Lines - 1120 Words
+    Skill 37 - Code Generator - 32 Lines - 168 Words
+    Skill 38 - Continuous Integration - 34 Lines - 340 Words
+   Skill 39 - DevOps Practices - 66 Lines - 395 Words
     Demo 13 - Code Builder - 217 Lines - 761 Words
     Project 13 - View Tests - 15 Lines - 50 Words
 
-Chapter 14 - Software Engineering - 86 Lines - 169 Words
+Chapter 14 - Software Engineering - 196 Lines - 1141 Words
     Skill 40 - Software Lifecycle - 90 Lines - 477 Words
-    Skill 41 - Planning Grid - 16 Lines - 47 Words
-    Skill 42 - Client Website - 41 Lines - 158 Words
+    Skill 41 - Planning Grid - 35 Lines - 258 Words
+    Skill 42 - Client Website - 108 Lines - 488 Words
     Demo 14 - Software Engineering Notebook - 106 Lines - 252 Words
     Project 14 - Data Tests - 15 Lines - 50 Words
 
 
-Total Words 35544
+Total Words 38817
