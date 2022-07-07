@@ -9,7 +9,7 @@ Chapter 8 - 3389 words
 Chapter 9 - 1897 words
 Chapter 10 - 1467 words
 Chapter 11 - 1716 words
-Chapter 12 - 1807 words
+Chapter 12 - 1810 words
 Chapter 13 - 2834 words
 Chapter 14 - 2666 words
 
@@ -95,7 +95,7 @@ Chapter 11 - Files and Documents - 100 Lines - 317 Words
 Chapter 12 - Development Process - 101 Lines - 158 Words
     Skill 34 - Discover Requirements - 66 Lines - 432 Words
     Skill 35 - Coding Process - 76 Lines - 168 Words
-    Skill 36 - Test Driven-development - 58 Lines - 343 Words
+    Skill 36 - Test Driven-development - 61 Lines - 346 Words
     Demo 12 - Course Builder - 103 Lines - 247 Words
     Project 12 - Superhero News - 134 Lines - 459 Words
 
@@ -114,4 +114,4 @@ Chapter 14 - Software Engineering - 196 Lines - 1141 Words
     Project 14 - Data Tests - 15 Lines - 50 Words
 
 
-Total Words 38817
+Total Words 38820
