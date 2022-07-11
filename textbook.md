@@ -1,6 +1,6 @@
 Chapter 1 - 3965 words
 Chapter 2 - 5643 words
-Chapter 3 - 2881 words
+Chapter 3 - 3528 words
 Chapter 4 - 3106 words
 Chapter 5 - 2825 words
 Chapter 6 - 2419 words
@@ -30,8 +30,8 @@ Chapter 2 - Application Hosting - 610 Lines - 3576 Words
     Project 2 - Web App Hosting - 15 Lines - 48 Words
 
 Chapter 3 - Basic Application - 152 Lines - 876 Words
-     Skill 7 - Create a Django App - 153 Lines - 331 Words
-     Skill 8 - Create Template View - 134 Lines - 283 Words
+     Skill 7 - Create a Django App - 234 Lines - 775 Words
+     Skill 8 - View with Images - 114 Lines - 486 Words
      Skill 9 - Add Variables to View - 161 Lines - 355 Words
     Demo 3 - Simple Application - 262 Lines - 644 Words
     Project 3 - Superhero Gallery - 127 Lines - 392 Words
@@ -114,4 +114,4 @@ Chapter 14 - Software Engineering - 196 Lines - 1141 Words
     Project 14 - Data Tests - 15 Lines - 50 Words
 
 
-Total Words 38820
+Total Words 39467
